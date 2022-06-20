@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&family=Josefin+Sans:wght@300;400;500;600;700&family=Kdam+Thmor+Pro&family=Montserrat:wght@100;400;600;900&family=Padauk:wght@400;700&display=swap');
+// Variables
+@import 'variables';
+@import '~sweetalert2/dist/sweetalert2.min.css';
+@import '~@fortawesome/fontawesome-free/css/all.css';
+// Bootstrap
+
+$warning : #FFEE63;
+$primary : #7858A6;
+$table-hover-color : #FFEE63;
+
+
+@import '~bootstrap/scss/bootstrap';
